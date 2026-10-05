@@ -1,0 +1,9 @@
+{
+  "name": "ai-creator-studio-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure backend for Blogger AI Creator Studio",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"}
+}
